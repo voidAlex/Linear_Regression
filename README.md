@@ -1,6 +1,6 @@
 # 一元线性回归的Java实现
 
-详情见[这里](https://voidalex.github.io/2017/07/20/Java%E7%88%AC%E8%99%AB%EF%BC%9A%E7%88%AC%E5%8F%96%E5%A6%B9%E5%AD%90%E5%9B%BE/)
+详情见[这里](https://voidalex.github.io/2017/07/23/%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0%EF%BC%9A%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%8F%8AJava%E5%AE%9E%E7%8E%B0/)
 
 ## 目录结构
 ```
